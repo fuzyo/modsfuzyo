@@ -1,5 +1,5 @@
 {
-	"type": "ArmoredConveyor",
+	"type": "Conveyor",
 	"name": "Graphene armored conveyor",
 	"description": "Better armored conveyor",
    "health": 500
